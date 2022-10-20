@@ -51,11 +51,11 @@ public class Maas {
     @Override
     public String toString() {
         return "Calisan :" +
-                "name='" + name + '\'' +
-                ", surname='" + surname + '\'' +
-                ", salary=" + salary +
-                ", workHours=" + workHours +
-                ", hireYear=" + hireYear +
+                "Name='" + name + '\'' +
+                ", Surname='" + surname + '\'' +
+                ", Salary=" + salary +
+                ", WorkHours=" + workHours +
+                ", HireYear=" + hireYear +
                 '}';
     }
 }
